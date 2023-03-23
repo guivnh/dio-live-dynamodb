@@ -1,6 +1,6 @@
 # dio-live-dynamodb
 EDIT: guivnh
-ReadCapacityUnits = 5. Diminuído de 10 para 5 pois parecia que era o máximo de leituras no padrão de contas basic no uso do Dynamodb.
+ReadCapacityUnits = 5 - Diminuído de 10 para 5 pois parecia que era o máximo de leituras no padrão de contas basic no uso do Dynamodb.
 Repositório fork editado e baseado na banda Aerosmith para o desafio do Bootcamp Banco Pan de Java da Dio.
 
 ### Serviço utilizado
