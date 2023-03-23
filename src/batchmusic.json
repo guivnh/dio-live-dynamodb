@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Aerosmith"},
+                  "SongTitle": {"S": "Nine Lives"},
+                  "AlbumTitle": {"S": "Nine Lives"},
+                  "SongYear": {"S": "1997"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Aerosmith"},
+                  "SongTitle": {"S": "Nine Lives"},
+                  "AlbumTitle": {"S": "Pink"},
+                  "SongYear": {"S": "1997"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Aerosmith"},
+                  "SongTitle": {"S": "Nine Lives"},
+                  "AlbumTitle": {"S": "Pink"},
+                  "SongYear": {"S": "1997"}
                 }
             }
         }
