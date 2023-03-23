@@ -25,7 +25,7 @@
                 "Item": {
                   "Artist": {"S": "Aerosmith"},
                   "SongTitle": {"S": "Nine Lives"},
-                  "AlbumTitle": {"S": "Pink"},
+                  "AlbumTitle": {"S": "Kiss Your Past Good-Bye"},
                   "SongYear": {"S": "1997"}
                 }
             }
